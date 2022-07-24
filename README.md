@@ -1,1 +1,3 @@
-# proyecto-hospedaje-tesis-web
+# Proyecto hospedaje tesis part web
+
+Parte web con funciones cliente / admin del sistema
